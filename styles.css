@@ -46,6 +46,7 @@ body {
   margin: 0 0 10px 0;
   font-weight: 800;
   color: hsl(218, 44%, 22%);
+  font-size: 25px;
 }
 
 .card_text {
